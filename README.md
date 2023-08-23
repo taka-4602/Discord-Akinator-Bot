@@ -10,5 +10,10 @@ Akinator.pyをDiscord向けに改造したBotです。ボタンタイプで操�
 大量にでてきます  
 
 いちおう同じAkinator機能を持ったBotを稼働させているので、興味があったら使ってみてください  
-↓Botの招待リンク↓  
-https://discord.com/api/oauth2/authorize?client_id=1143678795526717501&permissions=8&scope=bot
+##### Botの招待リンク  
+https://discord.com/api/oauth2/authorize?client_id=1143678795526717501&permissions=8&scope=bot  
+
+##### 作者とのコンタクト  
+ユーザーネーム -> .taka.  
+or  
+https://discord.gg/eyngej5NeK  
