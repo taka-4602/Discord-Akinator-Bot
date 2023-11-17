@@ -5,7 +5,7 @@ Akinator.pyをDiscord向けに改造したBotです。ボタンタイプで操�
 - discord.py
 - akinator.py
     
-15行目にあるBOTTOKENに自分のBotのトークンをペーストして実行するだけです
+15行目にあるBOTTOKENに自分のBotのトークンをペーストして実行するだけです  
 もしDiscord Botの作り方を知らなかったら検索してみてください  
 大量にでてきます  
 
