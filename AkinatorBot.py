@@ -8,7 +8,7 @@ from akinator import (
     Language
 )
 
-intents = discord.Intents.all()
+intents = discord.Intents.default()
 client = discord.Client(intents = intents)
 tree = discord.app_commands.CommandTree(client)
 
